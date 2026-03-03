@@ -30,7 +30,7 @@
 
 ---
 
-## What is Explainable KNN?
+## What is KNN?
 
 **Explainable KNN** is a browser-based interactive tool that turns the K-Nearest Neighbors (KNN) algorithm from a black box into a hands-on, visual learning experience.
 
